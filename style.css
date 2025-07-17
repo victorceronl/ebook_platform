@@ -1,0 +1,107 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+}
+
+header {
+    background-color: #131313;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+.portadaIndex{
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+#negociosBooks{
+    background-color: white;
+    padding: 4rem;
+    text-align: center;
+}
+#bestsellersBooks{
+    background-color: white;
+    padding: 5rem;
+    text-align: center;
+}
+
+#seccionLibrosBest{
+    background: #e9eeae;
+    background: radial-gradient(circle,rgba(233, 238, 174, 1) 0%, rgba(255, 215, 115, 1) 100%);
+    padding: 4rem;
+    text-align: center;
+    color: white;
+}
+
+#seccionLibrosNeg{
+    background-color: black;
+    padding: 5rem;
+    text-align: center;
+    color: white;
+    text-transform: bold;
+}
+
+.copy {
+    text-align: center;
+    font-size: 0.8rem;
+    color: rgb(0, 0, 0);
+}
+
+.purchase-buttons a {
+    display: inline-block;
+      margin: 0.5rem;
+      padding: 0.75rem 2rem;
+      font-size:1rem;
+      border-radius: 10px;
+      text-decoration: none;
+}
+.masInfo{
+  background-color: #007aff;
+  color: white;
+}
+.pagarLibro{
+    background-color: white;
+    border-color: #007aff;
+    border-width: 0.1rem;
+    border-style: solid;
+    color: #007aff;
+}
+/* CATEGORIA BESTSELLERS */
+
+.categoriaBestsellers{
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-color: black;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.imagenPortada {
+  width: 140px;
+  height: auto;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+/* LIBROS PAGINA DE VENTA */
+
+#libro{
+    background: radial-gradient(circle,rgba(233, 238, 174, 1) 0%, rgba(255, 215, 115, 1) 100%);
+    padding: 3rem;
+    text-align: center;
+}
+
+.imagenPortadaVenta{
+    width: 280px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 10px;
+}
