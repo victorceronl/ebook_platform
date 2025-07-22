@@ -26,13 +26,13 @@ header {
     border-radius: 10px;
 }
 #bestsellersBooks{
-    background-color: white;
+    background-color: #f5f5f7;
     padding: 5rem;
     text-align: center;
 }
 
 #seccionLibrosBest{
-    background: #e9eeae;
+    background: white;
     border-radius: 10px;
     padding: 4rem;
     text-align: center;
@@ -41,7 +41,7 @@ header {
 #seccionLibrosNeg{
     background-color: black;
     border-radius: 10px;
-    padding: 5rem;
+    padding: 4rem;
     text-align: center;
     color: white;
     text-transform: bold;
