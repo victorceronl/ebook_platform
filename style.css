@@ -91,7 +91,10 @@ header {
   border-radius: 5px;
   margin-right: 10px;
 }
-
+.muestraLibro{
+  background-color: gray;
+  color: white;
+}
 /* LIBROS PAGINA DE VENTA */
 
 #libro{
@@ -100,6 +103,8 @@ header {
     text-align: center;
 }
 
+
+/* PAGINA INDIVIDUAL*/
 .imagenPortadaVenta{
     width: 280px;
     height: auto;
@@ -107,16 +112,22 @@ header {
     margin-right: 10px;
 }
 
-/* PAGINA INDIVIDUAL*/
 .ventaEbook{
-    background-color: white;
+    background: radial-gradient(circle,rgba(233, 238, 174, 1) 0%, rgba(255, 215, 115, 1) 100%);
     padding: 5rem;
     text-align: center;
 }
 
+.informacionEbookVenta{
+    padding: 0.2rem;
+    margin-top: 5rem;
+    background-color: white;
+    border-radius: 10px;
+}
 .descripcionVentaLibro{
     background-color: rgb(255, 0, 0);
     padding: 10rem;
+    margin-top: 0.1rem;
     text-align: center;
     font-size: 1.2rem;
 }
