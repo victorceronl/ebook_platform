@@ -95,7 +95,7 @@ header {
   background-color: gray;
   color: white;
 }
-/* LIBROS PAGINA DE VENTA */
+/* LIBROS PAGINA DE VENTA -----INVESTIGAR SI FUNCIONA O ELIMINAR */
 
 #libro{
     background: radial-gradient(circle,rgba(233, 238, 174, 1) 0%, rgba(255, 215, 115, 1) 100%);
