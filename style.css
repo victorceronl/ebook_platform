@@ -113,21 +113,22 @@ header {
 }
 
 .ventaEbook{
-    background: radial-gradient(circle,rgba(233, 238, 174, 1) 0%, rgba(255, 215, 115, 1) 100%);
+    background: white;
     padding: 5rem;
     text-align: center;
 }
 
 .informacionEbookVenta{
+    font-size: 12px;
     padding: 0.2rem;
     margin-top: 5rem;
     background-color: white;
     border-radius: 10px;
 }
 .descripcionVentaLibro{
-    background-color: rgb(255, 0, 0);
-    padding: 10rem;
+    background-color: white;
+    padding: 2rem;
     margin-top: 0.1rem;
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
