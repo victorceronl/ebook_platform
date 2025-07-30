@@ -9,3 +9,6 @@ Es realmente importante tener una secuecia y orden. Mantener la simplicidad y tr
 
 21 de Julio de 2025
 Agregué archivo base para la pagina de cada Ebook. Modifiqué el archivo style para adaptarlo a esta ultima pagina. Consideraciones importantes: Adaptar la estructura de la pagina desde el diseño con CSS.
+
+29 de Julio de 2025
+Considerar los aspectos más importantes y esenciales del sistema me permitirá trabajar de forma constante y disciplinada.

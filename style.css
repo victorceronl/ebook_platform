@@ -21,8 +21,8 @@ header {
     text-align: center;
 }
 .portadaIndex{
-    width: 252px;
-    height: 392px;
+    width: 180px;
+    height: auto;
     height: auto;
     border-radius: 5px;
     margin-right: 10px;
@@ -35,8 +35,8 @@ header {
 }
 
 .carousel-item {
-    width: 252px;
-    height: 392px;
+    width: 180px;
+    height: auto;
     object-fit: cover;
     border-radius: 8px;
 }
