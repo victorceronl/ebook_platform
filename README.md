@@ -12,3 +12,6 @@ Agregué archivo base para la pagina de cada Ebook. Modifiqué el archivo style 
 
 29 de Julio de 2025
 Considerar los aspectos más importantes y esenciales del sistema me permitirá trabajar de forma constante y disciplinada.
+
+30 de Julio de 2025
+Modificaciones importantes a la interfaz, considero importante tener claridad sobre los aspectos esenciales y fundamentales para crear un producto minimo viable.
