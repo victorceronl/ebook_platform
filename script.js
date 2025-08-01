@@ -1,11 +1,14 @@
-    // Obtener el contador desde localStorage o iniciar en 0
-    let contador = parseInt(localStorage.getItem('contadorDescargas')) || 0;
+    const archivos = ['libro_0001', 'libro_0002', 'archivo3', 'archivo4', 'archivo5'];
 
-    // Mostrar el valor inicial
-    document.getElementById("numero-descargas").textContent = contador;
+    // Inicializar todos los contadores al cargar la página
+    archivos.forEach(id => {
+      const contador = parseInt(localStorage.getItem(`contador_${id}`)) || 0;
+      document.getElementById(`contador-${id}`).textContent = contador;
+    });
 
-    function incrementarContador() {
+    function incrementarContador(id) {
+      let contador = parseInt(localStorage.getItem(`contador_${id}`)) || 0;
       contador++;
-      document.getElementById("numero-descargas").textContent = contador;
-      localStorage.setItem('contadorDescargas', contador); // Guardar en localStorage
+      localStorage.setItem(`contador_${id}`, contador);
+      document.getElementById(`contador-${id}`).textContent = contador;
     }

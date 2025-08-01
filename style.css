@@ -128,14 +128,15 @@ header {
   color: white;
 }
 
-    #contador {
-      margin-top: 20px;
-      font-size: 1.2rem;
+    .contador {
+      font-size: 1rem;
       color: #333;
+      margin-bottom: 2rem;
     }
 
-    #numero-descargas {
+    .contador span {
       color: #007aff;
+      font-weight: bold;
       margin-left: 5px;
     }
 /* LIBROS PAGINA DE VENTA -----INVESTIGAR SI FUNCIONA O ELIMINAR */
