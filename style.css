@@ -127,6 +127,17 @@ header {
   background-color: gray;
   color: white;
 }
+
+    #contador {
+      margin-top: 20px;
+      font-size: 1.2rem;
+      color: #333;
+    }
+
+    #numero-descargas {
+      color: #007aff;
+      margin-left: 5px;
+    }
 /* LIBROS PAGINA DE VENTA -----INVESTIGAR SI FUNCIONA O ELIMINAR */
 
 #libro{
