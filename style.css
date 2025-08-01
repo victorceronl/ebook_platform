@@ -116,7 +116,16 @@ header {
   margin-bottom: 15px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
-
+.categoriaTitulo{
+  font-size: 2.4rem;
+  margin: 0;
+  color: black;
+}
+.categriaFrase{
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  color: gray;
+}
 .imagenPortada {
   width: 140px;
   height: auto;
@@ -135,9 +144,9 @@ header {
     }
 
     .contador span {
+      font-size: 0.9rem;
       color: #007aff;
-      font-weight: bold;
-      margin-left: 5px;
+      margin-left: 1px;
     }
 /* LIBROS PAGINA DE VENTA -----INVESTIGAR SI FUNCIONA O ELIMINAR */
 
