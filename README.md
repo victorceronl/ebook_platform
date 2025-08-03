@@ -15,3 +15,6 @@ Considerar los aspectos más importantes y esenciales del sistema me permitirá 
 
 30 de Julio de 2025
 Modificaciones importantes a la interfaz, considero importante tener claridad sobre los aspectos esenciales y fundamentales para crear un producto minimo viable.
+
+3 de Agosto de 2025
+Es muy importante comprender la esencia de la plataforma: Trabajar para identificar los puntos clave y esenciales, con ello definir la mejor estrategia para conseguir la maxima optimización.
